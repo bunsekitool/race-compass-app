@@ -1,3 +1,3 @@
-:HL["/_next/static/chunks/011j_ty3m-tep.css","style"]
-:HL["/_next/static/chunks/3afr46lfcburt.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}},"staleTime":300,"buildId":"27GQDrdJVBkFqOfEtpqyS"}
+:HL["/race-compass-app/_next/static/chunks/2htr7wgym3uk8.css","style"]
+:HL["/race-compass-app/_next/static/chunks/0d6dg9id5wfan.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}},"staleTime":300,"buildId":"oSuIvgm__a4z8X3uWLtuK"}
