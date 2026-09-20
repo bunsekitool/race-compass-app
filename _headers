@@ -1,0 +1,9 @@
+# Cloudflare Pages のレスポンスヘッダー
+# 本人限定のサイトなので検索エンジンに載せない。Access の制限と併用する
+/*
+  X-Robots-Tag: noindex, nofollow, noarchive
+  Referrer-Policy: no-referrer
+
+# レースデータは日々更新するのでキャッシュさせない
+/bundles/*
+  Cache-Control: no-store
